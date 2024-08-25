@@ -2,7 +2,7 @@
 www.dio.me
 
 #### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- [Gleyson Sampaio](https://github.com/glysns) - [João Claudio](https://github.com/joaocla)
 
 ## Controle de Fluxo - Desafio
 
