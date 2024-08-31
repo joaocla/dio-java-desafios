@@ -33,13 +33,13 @@ classDiagram
     class AparelhoTelefonico {
         +ligar(String numero)
         +atender()
-        +iniciarCorreioVoz
+        +iniciarCorreioVoz()
     }
 
     class NavegadorInternet {
         +exibirPagina(String url)
-        +adicionarNovaAba
-        +atualizarPagina
+        +adicionarNovaAba()
+        +atualizarPagina()
     }
 
     class iPhone {
